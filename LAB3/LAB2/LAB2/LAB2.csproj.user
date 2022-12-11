@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FormCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormEllipse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormHelicopter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormRectangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormSquare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormPolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTriangle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

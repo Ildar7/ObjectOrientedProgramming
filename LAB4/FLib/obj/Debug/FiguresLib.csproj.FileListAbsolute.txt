@@ -1,0 +1,14 @@
+D:\others\учеба\ООП\Валиев\LAB2\FLib\bin\Debug\FLib.dll
+D:\others\учеба\ООП\Валиев\LAB2\FLib\bin\Debug\FLib.pdb
+D:\others\учеба\ООП\Валиев\LAB2\FLib\obj\Debug\FiguresLib.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\Валиев\LAB2\FLib\obj\Debug\FiguresLib.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\Валиев\LAB2\FLib\obj\Debug\FiguresLib.csproj.CopyComplete
+D:\others\учеба\ООП\Валиев\LAB2\FLib\obj\Debug\FLib.dll
+D:\others\учеба\ООП\Валиев\LAB2\FLib\obj\Debug\FLib.pdb
+D:\others\учеба\ООП\Валиев\4\FLib\obj\Debug\FiguresLib.csproj.AssemblyReference.cache
+D:\others\учеба\ООП\Валиев\4\FLib\obj\Debug\FiguresLib.csproj.CoreCompileInputs.cache
+D:\others\учеба\ООП\Валиев\4\FLib\obj\Debug\FLib.dll
+D:\others\учеба\ООП\Валиев\4\FLib\obj\Debug\FLib.pdb
+D:\others\учеба\ООП\Валиев\4\FLib\bin\Debug\FLib.dll
+D:\others\учеба\ООП\Валиев\4\FLib\bin\Debug\FLib.pdb
+D:\others\учеба\ООП\Валиев\4\FLib\obj\Debug\FiguresLib.csproj.CopyComplete
